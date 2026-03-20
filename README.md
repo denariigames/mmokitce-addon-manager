@@ -11,7 +11,7 @@ It functions as a private, curated "addon marketplace" directly inside the Unity
 <img width="260" height="475" alt="image" src="https://github.com/user-attachments/assets/94e477b5-09a7-4e3d-9af1-e3d2e8b07777" />
 
 - **Dynamic Addon Discovery**
-  - Addons are loaded from a central [manifest.json](https://github.com/denariigames/mmokitce-addons/blob/master/manifest.json)
+  - Addons are loaded from a central [manifest.json](https://github.com/denariigames/mmokitce-addon-manager/blob/master/manifest.json)
   - Shows updates available to installed addons
   - Clean, Unity Package Manager-inspired layout
 
