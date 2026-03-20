@@ -1,10 +1,3 @@
 [
-  "https://raw.githubusercontent.com/denariigames/nightblade-addons/refs/heads/master/WorldInteractions/dist/package.json",
-  "https://raw.githubusercontent.com/denariigames/nightblade-addons/refs/heads/master/OdinInspector/dist/package.json",
-  "https://raw.githubusercontent.com/denariigames/nightblade-addons/refs/heads/master/LoadTest/dist/package.json",
-  "https://raw.githubusercontent.com/denariigames/nightblade-addons/refs/heads/master/GMCommandExt/dist/package.json",
-  "https://raw.githubusercontent.com/denariigames/nightblade-addons/refs/heads/master/AddonPackager/dist/package.json",
-  "https://raw.githubusercontent.com/Reinhartdelille/MMO_Docker_Scripts/refs/heads/main/package.json",
-  "https://raw.githubusercontent.com/denariigames/nightblade-addons/refs/heads/master/DestroyableEntity/dist/package.json",
-  "https://raw.githubusercontent.com/denariigames/nightblade-addons/refs/heads/master/NPCSubtitle/dist/package.json"
+  "https://raw.githubusercontent.com/denariigames/nightblade-addons/refs/heads/master/AddonPackager/dist/package.json"
 ]
